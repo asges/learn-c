@@ -4,6 +4,8 @@
  * Kernighan and Ritchie C
  * Practical C Programming, 3rd edition by Steve Oualline
  * Notes on Data Structures and Programming Techniques by James Aspnes
+ * C Programming, A Modern Approach, 2nd edition by K.N. King
+ * Programming Classics: Implementing the World's Best Algorithms by Ian Oliver
 
 ## Skills acquired along the way
  * how to debug successfully with gdb and valgrind
